@@ -8,9 +8,9 @@ Author: TM_47
 
 ---
 
-- **Let's try sonic Visualizer**
-- **If don't have it, [download and install](https://www.sonicvisualiser.org/download.html)**
-- **Open it and upload the file**
+- **Let's try Sonic Visualizer.**
+- **If you don't have it, [download and install](https://www.sonicvisualiser.org/download.html)**
+- **Open it and upload the file.**
   
 ![sonic visualizer](../images/aa.png)
 
@@ -19,6 +19,6 @@ Author: TM_47
   
 ![sonic visualizer](../images/bb.png)
 
-- **Did you see something! Zoom it and get the flag.**
+- **Did you see something? Zoom in and get the flag.**
   
 ![sonic visualizer](../images/cc.png)

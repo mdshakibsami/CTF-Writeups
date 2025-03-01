@@ -9,11 +9,11 @@ Author: TM_47
 ---
 
 - **Download the file [music](../Files/Music.mp3)**
-- **I tried some online tools and also sonic visualizer, but i didn't get the flag**
-- **Finally got this site [stegonaut](https://www.stegonaut.com/)**
-- **Upload the file and get the flag**
+- **I tried online tools, including Sonic Visualiser, but I didn't get the flag.**
+- **Finally got this site.[stegonaut](https://www.stegonaut.com/)**
+- **Upload the file and get the flag.**
 
 ![image](../images/image.png)
 
 # Flag:
-**JKKNIUCTF{chu81n4(ჩუბინა)_7h02f1nn_7h3m3_50n9}**
+    JKKNIUCTF{chu81n4(ჩუბინა)_7h02f1nn_7h3m3_50n9}

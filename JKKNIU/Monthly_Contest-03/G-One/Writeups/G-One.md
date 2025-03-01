@@ -10,13 +10,14 @@ Author: TM_47
 
 - **Download the file: [Unknown.txt](../Files/Unknown.txt)**
 - **This is G-code, which is a language used to control CNC machines.**
-- **Use this tool => [ncviewer](https://ncviewer.com/)**
-- **Paste the code and click the Plot button**
+- **Use this tool [ncviewer](https://ncviewer.com/)**
+- **Paste the code and click the Plot button.**
   
 ![image](../images/image.png)
 - **Here is The flag** 
   
 ---
-***Flag: JKKNIUCTF{Gc0d3_4_3D_Pr1n71Ng}***
+# Flag: 
+    JKKNIUCTF{Gc0d3_4_3D_Pr1n71Ng}
 
 --- 
